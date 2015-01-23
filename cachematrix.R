@@ -1,6 +1,6 @@
 ## Functions to calculate the inverse of a given matrix ##
 
-## This functions defines the getter and setter methods on the matrix 
+## This function defines the getter and setter methods on the matrix 
 ## It also caches the inverse in a environment variable.
 makeCacheMatrix <- function(x = matrix()) {
         ##initialize the inverse variable
